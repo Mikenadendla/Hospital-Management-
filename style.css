@@ -1,0 +1,10 @@
+.nav-item a:hover {
+    background-color: black;
+    color:white;
+}
+
+body{
+    background-image:url('https://img.etimg.com/thumb/width-1600,height-900,imgsize-16400,resizemode-75,msid-92641715/industry/healthcare/biotech/healthcare/care-acquires-indores-specialty-hospital-chl.jpg');
+    background-size: cover;
+    height: 100vh;
+}
